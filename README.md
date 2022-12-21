@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there 
 
-<!--
-**BogdanFV/BogdanFV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My skills include:
+Languages: JavaScript, TypeScript, ES6+ (ES2015+, ECMAScript 2015+)
+Framework: React
+State management: Redux
+Server-side: Node.js, Webpack, Gulp, npm, npm scripts, Yarn, Babel, Create React App
+Layout / template: HTML, HTML5, JSX
+Styles: CSS, CSS3, JSS, CSS-in-JS, SCSS, Sass, BEM
+UI libraries: Bootstrap, Material UI
+Utility libraries: React router, Redux form
+Version control: Git, GitHub
+Tools: Jira, Trello
+Project management: Kanban
+Communication: Fluent in written and spoken English, Native in Russian
