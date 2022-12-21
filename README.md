@@ -5,10 +5,10 @@ My skills include:
 - :computer: Framework: React
 - :computer: State management: Redux
 - :computer: Server-side: Node.js, Webpack, Gulp, npm, npm scripts, Yarn, Babel, Create React App
-- :computer: Layout / template: HTML, HTML5, JSX
-- :computer: Styles: CSS, CSS3, JSS, CSS-in-JS, SCSS, Sass, BEM
-- :computer: UI libraries: Bootstrap, Material UI
 - :computer: Utility libraries: React router, Redux form
+- :computer: Layout / template: HTML, HTML5, JSX
+- :watermelon: Styles: CSS, CSS3, JSS, CSS-in-JS, SCSS, Sass, BEM
+- :watermelon: UI libraries: Bootstrap, Material UI
 - :electric_plug: Version control: Git, GitHub
 - :electric_plug: Tools: Jira, Trello
 - :electric_plug: Project management: Kanban
