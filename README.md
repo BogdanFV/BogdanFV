@@ -1,4 +1,4 @@
-### Hello there 
+### Hello there :cat: :zap:
 
 My skills include:
 - :computer: Languages: JavaScript, TypeScript, ES6+ (ES2015+, ECMAScript 2015+)
