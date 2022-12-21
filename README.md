@@ -12,4 +12,4 @@ My skills include:
 - Version control: Git, GitHub
 - Tools: Jira, Trello
 - Project management: Kanban
-:earth_asia: Communication: Fluent in written and spoken English, Native in Russian
+- :earth_asia: Communication: Fluent in written and spoken English, Native in Russian
