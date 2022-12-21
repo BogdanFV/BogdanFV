@@ -8,7 +8,7 @@ My skills include:
 - :computer: Utility libraries: React router, Redux form
 - :computer: Layout / template: HTML, HTML5, JSX
 - :watermelon: Styles: CSS, CSS3, JSS, CSS-in-JS, SCSS, Sass, BEM
-- :watermelon: UI libraries: Bootstrap, Material UI
+- :watermelon: UI libraries: Bootstrap, Materialize
 - :electric_plug: Version control: Git, GitHub
 - :electric_plug: Tools: Jira, Trello
 - :electric_plug: Project management: Kanban
