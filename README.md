@@ -2,7 +2,7 @@
 
 My skills include:
 - :computer: Languages: JavaScript, TypeScript, ES6+ (ES2015+, ECMAScript 2015+)
-- :computer: Framework: React
+- :computer: Framework: React, React Native
 - :computer: State management: Redux
 - :computer: Server-side: Node.js, Webpack, Gulp, npm, npm scripts, Yarn, Babel, Create React App
 - :computer: Utility libraries: React router, Redux form
