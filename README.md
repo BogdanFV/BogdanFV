@@ -2,12 +2,12 @@
 
 My skills include:
 - :computer: Languages: JavaScript, TypeScript, ES6+ (ES2015+, ECMAScript 2015+)
-- :computer: Framework: React, React Native
-- :computer: State management: Redux
-- :computer: Server-side: Node.js, Webpack, Gulp, npm, npm scripts, Yarn, Babel, Create React App
+- :computer: Framework: React, React Native, Vue
+- :computer: State management: Redux, Vuex
+- :computer: Server-side: Node.js, Webpack, Gulp, npm, Yarn, Babel
 - :computer: Utility libraries: React router, Redux form
 - :computer: Layout / template: HTML, HTML5, JSX
-- :watermelon: Styles: CSS, CSS3, JSS, CSS-in-JS, SCSS, Sass, BEM
+- :watermelon: Styles: CSS, JSS, CSS-in-JS, SCSS, Sass, BEM
 - :watermelon: UI libraries: Bootstrap, Materialize
 - :electric_plug: Version control: Git, GitHub
 - :electric_plug: Tools: Jira, Trello
